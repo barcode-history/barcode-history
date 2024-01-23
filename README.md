@@ -56,7 +56,7 @@ Whether or not the symbology is able to encode lowercase ASCII letters (a-z), an
 
 #### Others
 
-Whether or not the symbology is able to encode other types of characters (i.e. not digits or ASCII letters), and either the number of additional characters encodable, or (in the case of a full character set) the name of the encodable character set.
+Whether or not the symbology is able to encode other types of characters (i.e. not digits or ASCII letters), and either the number of additional characters encodable, or (in the case of a full character set) the name of the encodable character set(s).
 
 #### Unicode
 
@@ -64,7 +64,7 @@ Whether or not the symbology is able to encode the full Unicode character set vi
 
 #### Error Correction
 
-The type of error correction available for the symbology, if any.
+The type of error correction used by the symbology, if any.
 
 #### ZXing
 
