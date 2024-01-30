@@ -66,6 +66,14 @@ Whether or not the symbology is able to encode the full Unicode character set vi
 
 The type of error correction used by the symbology, if any.
 
+#### Identifier
+
+The ISO/IEC 15424 symbology identifier character for the symbology, if any.
+
+#### Identifier Modifiers
+
+The range of ISO/IEC 15424 symbology identifier modifier characters used by the symbology, if any.
+
 #### ZXing
 
 Whether or not the open source [ZXing](https://github.com/zxing/zxing) project supports the symbology. An indicator of the level of industry support for the symbology.
@@ -86,6 +94,10 @@ Whether or not the [ZPL](https://en.wikipedia.org/wiki/Zebra_Programming_Languag
 
 The rough level of popularity of the symbology today, across all industries, on a scale of 0 (never used) to 10 (extremely popular).
 
+#### Image
+
+Relative path to a sample image of the symbology.
+
 #### Patent
 
 The primary patent associated with the symbology, if any.
@@ -105,3 +117,7 @@ The name of the latest official specification document for the symbology, if any
 #### Specification Link
 
 Web link to the latest official specification document for the symbology, if any.
+
+#### ISO
+
+Whether or not the symbology has been documented in an ISO standard.
