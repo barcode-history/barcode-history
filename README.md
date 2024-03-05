@@ -118,6 +118,10 @@ The name of the latest official specification document for the symbology, if any
 
 Web link to the latest official specification document for the symbology, if any.
 
+#### ISO
+
+Whether or not the symbology has been documented in an ISO standard.
+
 #### Implementation Link 1
 
 Web link to a first sample implementation of an encoder and/or decoder for the symbology.
@@ -129,7 +133,3 @@ Web link to a second sample implementation of an encoder and/or decoder for the 
 #### Implementation Link 3
 
 Web link to a third sample implementation of an encoder and/or decoder for the symbology.
-
-#### ISO
-
-Whether or not the symbology has been documented in an ISO standard.
